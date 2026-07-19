@@ -5,6 +5,7 @@ A quantitative analysis of Mexico's fiscal outlook using a KLR Signals-based Mon
 ## Overview
 
 This repository contains the complete Python implementation powering the analysis for the Medium article *"Mexico's Economic Crossroads: A Data-Driven Analysis of the 2026-2027 Fiscal Landscape"* by Dr. Robert Hernández Martínez.
+Article at Medium: https://medium.com/@chomchom216/mexicos-economic-crossroads-41aaedeff8b5
 
 ## Key Features
 
